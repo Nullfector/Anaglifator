@@ -18,6 +18,8 @@ The files this program requires must have a specyfic structure:
 There are some sample files that showcase how it should look: hehe.txt, wsad.txt & test_450.txt
 
 ---
+***I was responsible for creating the backend for this project - the math behind the rotations and placement, correct data reading trom the file as well as proper placement of the initial 3D object (so that its geometric center is always in the middle of the display). The rest is mostly the doing of my collaborators mentioned in the description.*
+---
 ## Screenshots showcasing how the program looks:
 
 Loaded object:
